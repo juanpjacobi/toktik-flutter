@@ -1,0 +1,98 @@
+List<Map<String, dynamic>> videoPosts = [
+  {
+    'name': 'Atardecer en la playa',
+    'videoUrl': 'assets/videos/1.mp4',
+    'likes': 23230,
+    'views': 1523,
+  },
+  {
+    'name': 'Lluvia en la ventana',
+    'videoUrl': 'assets/videos/2.mp4',
+    'likes': 24230,
+    'views': 1343,
+  },
+  {
+    'name': 'Pensativa',
+    'videoUrl': 'assets/videos/3.mp4',
+    'likes': 21564320,
+    'views': 123563,
+  },
+  {
+    'name': 'Paisaje en el monte',
+    'videoUrl': 'assets/videos/4.mp4',
+    'likes': 320,
+    'views': 2300,
+  },
+  {
+    'name': 'Estos es trigo?? que interesante',
+    'videoUrl': 'assets/videos/5.mp4',
+    'likes': 3230,
+    'views': 31030,
+  },
+  {
+    'name': 'En el mar',
+    'videoUrl': 'assets/videos/6.mp4',
+    'likes': 10,
+    'views': 330,
+  },
+  {
+    'name': 'Paisaje en el puerto',
+    'videoUrl': 'assets/videos/7.mp4',
+    'likes': 1320,
+    'views': 33032,
+  },
+  {
+    'name': 'Night lights',
+    'videoUrl': 'assets/videos/8.mp4',
+    'likes': 342,
+    'views': 3332,
+  },
+  {
+    'name': 'Drinks',
+    'videoUrl': 'assets/videos/9.mp4',
+    'likes': 23230,
+    'views': 1523,
+  },
+  {
+    'name': 'Flores en primavera',
+    'videoUrl': 'assets/videos/10.mp4',
+    'likes': 24230,
+    'views': 1343,
+  },
+  {
+    'name': 'Lego la navidad',
+    'videoUrl': 'assets/videos/11.mp4',
+    'likes': 21564320,
+    'views': 123563,
+  },
+  {
+    'name': 'wow hermosas medusas',
+    'videoUrl': 'assets/videos/12.mp4',
+    'likes': 320,
+    'views': 2300,
+  },
+  {
+    'name': 'Fuegos artificiales',
+    'videoUrl': 'assets/videos/13.mp4',
+    'likes': 3230,
+    'views': 31030,
+  },
+  {
+    'name': 'Atardecer en la montaña',
+    'videoUrl': 'assets/videos/14.mp4',
+    'likes': 10,
+    'views': 330,
+  },
+  {
+    'name': 'Playing bowl',
+    'videoUrl': 'assets/videos/15.mp4',
+    'likes': 1320,
+    'views': 33032,
+  },
+  {
+    'name': '¿Ya llegamos a la India?... umm si',
+    'videoUrl': 'assets/videos/16.mp4',
+    'likes': 342,
+    'views': 3332,
+  },
+];
